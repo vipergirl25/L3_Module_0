@@ -1,0 +1,18 @@
+JUnit tests are a way to verify that a method is correctly performing its task.
+
+Right click on the IntroToJUnitTest package. Select New->JUnit Test Case.
+
+Click OK to add the JUnit Library.
+
+Run the program. 
+
+Did you see the red bar? 
+
+Delete the call to the fail method and run it again.
+
+Did you see a green bar?
+
+Ask your teacher to explain: 
+asserEquals(Object, Object);
+assertFalse(Object);
+assertTrue(Object);
